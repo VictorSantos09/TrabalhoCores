@@ -1,0 +1,60 @@
+I:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.exe
+I:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.deps.json
+I:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.runtimeconfig.json
+I:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.dll
+I:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.pdb
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.AssemblyReference.cache
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.GeneratedMSBuildEditorConfig.editorconfig
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfoInputs.cache
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfo.cs
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.CoreCompileInputs.cache
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.dll
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\refint\TrabalhoCores.dll
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.pdb
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.genruntimeconfig.cache
+I:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\ref\TrabalhoCores.dll
+E:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.exe
+E:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.deps.json
+E:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.runtimeconfig.json
+E:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.dll
+E:\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.pdb
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.AssemblyReference.cache
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.GeneratedMSBuildEditorConfig.editorconfig
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfoInputs.cache
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfo.cs
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.CoreCompileInputs.cache
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.dll
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\refint\TrabalhoCores.dll
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.pdb
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.genruntimeconfig.cache
+E:\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\ref\TrabalhoCores.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.exe
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.deps.json
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.runtimeconfig.json
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.AssemblyReference.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfoInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfo.cs
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.CoreCompileInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\refint\TrabalhoCores.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.genruntimeconfig.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\ref\TrabalhoCores.dll
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.exe
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.deps.json
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.runtimeconfig.json
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.dll
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\bin\Debug\net6.0\TrabalhoCores.pdb
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.AssemblyReference.cache
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.GeneratedMSBuildEditorConfig.editorconfig
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfoInputs.cache
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.AssemblyInfo.cs
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.csproj.CoreCompileInputs.cache
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.dll
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\refint\TrabalhoCores.dll
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.pdb
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\TrabalhoCores.genruntimeconfig.cache
+I:\Trabalhos\TrabalhoCores\TrabalhoCores\obj\Debug\net6.0\ref\TrabalhoCores.dll
